@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    margin: 0%;
+    background-color: rgb(224, 233, 236);
+}
+h1{
+    text-align: center;
+    color:red;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    font-size: 40px;
+    word-spacing: 30px; 
+    letter-spacing: 2px;
+    text-decoration: overline underline rgb(36, 36, 2);
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    
+}
