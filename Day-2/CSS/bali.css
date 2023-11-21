@@ -1,0 +1,32 @@
+body{
+    margin: 0 auto;
+    background-color: rgb(229, 224, 240);
+}
+
+.bali{
+    width: 80%;
+    margin: 50px auto;
+}
+
+.img{
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 10px;
+
+}
+.back{
+    width: 40px;
+    background-color: black;
+    color: white;
+    border: 2px solid lightblue;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    
+}
